@@ -1,0 +1,4 @@
+baseURL = "http://davidemoscatelli.it/"
+languageCode = "en-us"
+title = "davide"
+theme = "hugo-uilite"

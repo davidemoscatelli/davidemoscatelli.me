@@ -1,0 +1,22 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Autocad LT" : "90",
+		"Archicad" : "65",
+		"Sketchup" : "90",
+		"Vray" : "95",
+		"Affinity designer" : "80",
+		"Finalcut Pro" : "85",
+		"Logic Pro" : "65",
+		"linguaggio Swift" : "45",
+		"HTML" : "50" ,
+		"CSS" : "50",
+		"Adobe XD" : "95",
+		"Fusion 360" : "95",
+		"3D printer - Cura" : "85",
+		"Finalcut Pro" : "65",
+		"Logic Pro" : "65",
+		"Microsoft Office" : "75",
+		"Apple Iwork" : "75"
+	}
+}
