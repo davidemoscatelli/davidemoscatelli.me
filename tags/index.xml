@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="https://www.davidemoscatelli.me/">
+<rss version="2.0" xmlns:atom="https://leafy-faloodeh-c458b2.netlify.app/">
   <channel>
     <title>Tags on Davide Moscatelli</title>
-    <link>https://www.davidemoscatelli.me/tags/</link>
+    <link>https://leafy-faloodeh-c458b2.netlify.app/tags/</link>
     <description>Recent content in Tags on Davide Moscatelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.davidemoscatelli.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://leafy-faloodeh-c458b2.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
